@@ -1,2 +1,2 @@
 # SomADS
-An API with these own free pubs!
+An API with these own free adds!
